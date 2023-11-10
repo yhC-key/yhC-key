@@ -1,9 +1,9 @@
 <p align="center">
- ✈<b>*</b> <br>
+ ✈<b>*</b>✈ <br>
  🚅<b>Study, practice, and make</b> <br>
     <br>
- 📕<b>E-mail</b>  <br>
- 📘<b>*</b><br>
+ 📘<b>E-mail</b>📘  <br>
+ <b>*</b><br>
 <br>
   
 <p align="center">
