@@ -1,9 +1,9 @@
 <p align="center">
- <img src="https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"><b>*</b> <br>
- <b>Study, practice, and make</b> <br>
+ ✈<b>*</b> <br>
+ 🚅<b>Study, practice, and make</b> <br>
     <br>
- <b>E-mail</b>  <br>
-<b>*</b><br>
+ 📕<b>E-mail</b>  <br>
+ 📘<b>*</b><br>
 <br>
   
 <p align="center">
