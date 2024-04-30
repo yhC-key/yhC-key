@@ -37,10 +37,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhc-key&layout=compact&theme=onedark) 
     
 
-## :question: Algorithm  
- </a>
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=s4253541)](https://solved.ac/s4253541)<br/>
-
-
-  </div>
