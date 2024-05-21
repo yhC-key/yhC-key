@@ -33,7 +33,6 @@
 <div align=center>
 
 
-![ *'s github stats](https://github-readme-stats.vercel.app/api?username=yhc-key&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhc-key&layout=compact&theme=onedark) 
     
 
